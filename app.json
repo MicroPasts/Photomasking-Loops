@@ -1,7 +1,7 @@
 {
-    "name": "Pop-up: Photo Masking Olduvai Handaxes",
-    "short_name": "photomaskingHandaxes",
-    "thumbnail": "http://micropasts.org/wp-content/uploads/2014/09/olduvai-e1410339784626.png",
-    "description": "Pop-up: Photo Masking Olduvai Handaxes",
-    "question": "Draw the outline of the handaxe in the picture"
+    "name": "Photo Masking Lower Hardres Palstaves",
+    "short_name": "photomaskingPalstaves",
+    "thumbnail": "http://micropasts.org/wp-content/uploads/2014/09/palstaves_thumbnail.png",
+    "description": "Photo masking application",
+    "question": "Draw the outline and/or holes of the main object in the picture"
 }

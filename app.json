@@ -1,7 +1,7 @@
 {
-    "name": "Photo Masking Lower Hardres Palstaves",
-    "short_name": "photomaskingPalstaves",
-    "thumbnail": "http://micropasts.org/wp-content/uploads/2014/09/palstaves_thumbnail.png",
+    "name": "Photo Masking Gold Bracelets ",
+    "short_name": "photomaskingBracelets",
+    "thumbnail": "http://micropasts.org/wp-content/uploads/2014/09/bracelet_thumbnail.png",
     "description": "Photo masking application",
     "question": "Draw the outline and/or holes of the main object in the picture"
 }

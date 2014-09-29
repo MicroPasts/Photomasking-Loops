@@ -7,7 +7,7 @@ This application has three files:
 *  template.html: the view for every task and deal with the data of the answers.
 *  tutorial.html: a simple tutorial for the volunteers.
 
-![alt screenshot](http://micropasts.org/wp-content/uploads/2014/09/LHC_PalstaveApp-e1410875095530.png)
+![alt screenshot](http://micropasts.org/wp-content/uploads/2014/09/BraceletsApp.png)
 
 Testing the application
 =======================

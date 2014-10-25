@@ -220,12 +220,9 @@ a.ol-full-screen-true:after {
 
             <div id="1" class="modal-body" style="display:none">
                 <p>
-                This specific photo-masking application includes very delicate gold ornaments. The bracelets presented here have minute details such as hooked fastenings, which may be challenging to mask. We recommend masking these details by drawing an outline around them, including some of the background as well, as in the example below:
+                This specific photo-masking application includes loop bracelets. it is important to mask out the background also from within the loops, as in the example below:
                 </p>
                 <img src="http://micropasts.org/wp-content/uploads/2014/09/BraceletsTut2.png" width="100%" class="img-polaroid" alt="An example of an artefact photograph whose outline has been defined" />
-                <p>
-                While the resulting masks would be less accurate, it is better not to risk losing these types of small details.
-                </p>
             </div>
 
             <div id="2" class="modal-body" style="display:none">
@@ -283,7 +280,7 @@ a.ol-full-screen-true:after {
 
 <script>
 function loadUserProgress() {
-    pybossa.userProgress('photomaskingBracelets').done(function(data){
+    pybossa.userProgress('photomaskingLoops').done(function(data){
     	
     	console.log('Tasks done so far: ' + data.done);
     	
@@ -603,8 +600,6 @@ pybossa.presentTask(function(task, deferred) {
 
                 }});
 
-
-
         $('.btn-answer').off('click').on('click', function(evt) {
             var answer = $(evt.target).attr("value");
             if (typeof answer != 'undefined'){
@@ -664,5 +659,5 @@ pybossa.presentTask(function(task, deferred) {
         
 });
 
-pybossa.run('photomaskingBracelets');
+pybossa.run('photomaskingLoops');
 </script>

@@ -7,7 +7,7 @@ This application has three files:
 *  template.html: the view for every task and deal with the data of the answers.
 *  tutorial.html: a simple tutorial for the volunteers.
 
-![alt screenshot](http://micropasts.org/wp-content/uploads/2014/09/BraceletsApp.png)
+![alt screenshot](http://micropasts.org/wp-content/uploads/2014/10/Screen-Shot-2014-10-28-at-14.18.00.png)
 
 Testing the application
 =======================
